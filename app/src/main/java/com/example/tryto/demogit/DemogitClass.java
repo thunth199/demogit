@@ -7,6 +7,6 @@ public class DemogitClass {
     int a;
     int b;
     public int tong(){
-        return a+b;
+        return a+b+1;
     }
 }
