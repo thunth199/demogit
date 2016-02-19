@@ -10,7 +10,8 @@
     tools:context="com.example.tryto.demogit.MainActivity">
 
     <TextView
+        android:id="@+id/tvhello"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text = “huh thuan”/>
+        android:text="Hello World"/>
 </RelativeLayout>
